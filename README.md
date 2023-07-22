@@ -143,5 +143,4 @@ listener.onResult(output[1].categories, inferenceTime)
 - Copy the APK file to the android phone and install. 
 
 
-
-
+Author: David Castelló Tejera
